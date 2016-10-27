@@ -1,0 +1,46 @@
+.default{background: url('../images/default.png') no-repeat}
+.book_edit{background:url('../images/book_edit.png') no-repeat;}
+.pencil{background:url('../images/pencil.png') no-repeat;}
+.back{background:url('../images/back.png') no-repeat;}
+.search{background:url('../images/search.png') no-repeat;}
+.map{background:url('../images/map.png') no-repeat;}
+.pictures{background:url('../images/pictures.png') no-repeat;}
+.calculator{background:url('../images/calculator.png') no-repeat;}
+.folder{background:url('../images/folder.png') no-repeat;}
+.pie{background:url('../images/pie.png') no-repeat;}
+.group_add{background:url('../images/group_add.png') no-repeat;}
+
+.main_icon_sl{background:url('../images/main_icon_sl.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_gl{background:url('../images/main_icon_gl.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_jk{background:url('../images/main_icon_jk.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_on{background:url('../images/main_icon_on.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_noctice{background:url('../images/main_icon_noctice.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_lc{background:url('../images/main_icon_lc.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_doc{background:url('../images/main_icon_doc.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_doc{background:url('../images/main_icon_doc.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_lc{background:url('../images/main_icon_lc.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_noctice{background:url('../images/main_icon_noctice.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_main{background:url('../images/main_icon_main.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_flow{background:url('../images/main_icon_flow.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_tj{background:url('../images/main_icon_tj.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_show{background:url('../images/main_icon_show.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_doc{background:url('../images/main_icon_doc.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_on{background:url('../images/main_icon_on.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_oa{background:url('../images/main_icon_oa.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_lc{background:url('../images/main_icon_lc.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_noctice{background:url('../images/main_icon_noctice.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.main_icon_doc{background:url('../images/main_icon_doc.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.default{background:url('../images/default.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.back{background:url('../images/back.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.pie{background:url('../images/pie.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.pictures{background:url('../images/pictures.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.pencil{background:url('../images/pencil.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.map{background:url('../images/map.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.group_add{background:url('../images/group_add.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.calculator{background:url('../images/calculator.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.folder{background:url('../images/folder.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.deskIcon{background:url('../images/deskIcon.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+
+.oa主页_80{background:url('../images/oa主页_80.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.oa主页_130{background:url('../images/oa主页_130.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
+.oa主页_100{background:url('../images/oa主页_100.png') no-repeat  scroll 0 0;display: inline-block;height: 22px;position: relative;left: 2%;top: 20%;width: 40px;}
